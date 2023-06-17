@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "deteccao-fraude"
+version = "0.1.0"
+description = "Deteccao de Fraude"
+authors = ["Valmir"]
+license = "0.1.0"
+readme = "README.md"
+packages = [{include = "deteccao_fraude"}]
+
+[tool.poetry.dependencies]
+python = "^3.10.6"
+pandas = "^2.0.2"
+numpy = "^1.24.3"
+seaborn = "^0.12.2"
+matplotlib = "^3.7.1"
+plotly-express = "^0.4.1"
+plotly = "^5.15.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
