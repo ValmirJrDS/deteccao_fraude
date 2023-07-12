@@ -6,7 +6,6 @@ __pycache__/
 *.so
 # Distribution / packaging
 .Python
-*.pkl
 env/
 build/
 develop-eggs/
@@ -77,6 +76,7 @@ target/
 
 # exclude data from source control by default
 /data/
+*.pkl/
 
 # Mac OS-specific storage files
 .DS_Store
