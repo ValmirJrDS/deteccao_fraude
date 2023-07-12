@@ -7,7 +7,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-*.pkl/
+*.pkl
 env/
 build/
 develop-eggs/
