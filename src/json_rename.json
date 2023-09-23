@@ -1,0 +1,13 @@
+{
+    "step": "Tempo",
+    "type": "Tipo",
+    "amount": "Quantia",
+    "nameOrig": "ClienteOrigem",
+    "oldbalanceOrg": "SaldoInicalOrig",
+    "newbalanceOrig": "SaldoFinalOrig",
+    "nameDest": "ClienteDest",
+    "oldbalanceDest": "SaldoInicialDest",
+    "newbalanceDest": "SaldoFinalDest",
+    "isFraud": "Fraude"
+
+}
