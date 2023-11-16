@@ -1,6 +1,39 @@
 deteccao_fraude
 ==============================
 
+`Apresentando o Projeto de Ciência de Dados da Blocker Fraud Company: Detecção Avançada de Fraudes Bancárias`
+
+Estamos entusiasmados em apresentar nosso mais recente projeto de ciência de dados: a Detecção Avançada de Fraudes Bancárias da Blocker Fraud Company. Neste projeto, estamos trabalhando arduamente para combater fraudes no setor bancário e proteger os ativos financeiros de nossos clientes de maneira eficaz e inovadora.
+
+`O Desafio da Detecção de Fraudes em Meio ao Sigilo dos Dados`
+
+Um dos maiores desafios que enfrentamos é a obtenção de dados relevantes para treinar nosso modelo de detecção de fraudes. Compreendemos que a segurança e o sigilo dos dados dos clientes são de extrema importância. Essa preocupação impede o acesso direto aos dados reais das transações, o que torna a obtenção de informações significativas uma tarefa complexa.
+
+`Utilizando Dados de Simulação da PaySim para Desenvolver um Modelo Robusto`
+
+Para superar essa dificuldade, optamos por utilizar uma base de dados fornecida publicamente pela PaySim. A PaySim é uma empresa especializada em criar simuladores de transações bancárias com dados reais, porém anonimizados. Isso nos permite estudar e treinar nosso modelo em um ambiente seguro e ético, sem comprometer a privacidade dos clientes.
+
+`Analisando a Eficiência do Modelo`
+
+Com nosso modelo de detecção de fraudes em funcionamento, surgem perguntas cruciais sobre seu desempenho:
+
+* `Precisão e Acurácia:` Quão bem nosso modelo identifica transações fraudulentas? Estamos medindo sua precisão e acurácia para garantir que suas previsões sejam confiáveis e úteis.
+
+* `Confiabilidade na Classificação:` Qual é a confiabilidade do modelo em categorizar transações como legítimas ou fraudulentas? Estamos trabalhando para maximizar a capacidade do modelo em identificar e separar com precisão os dois tipos de transações.
+
+* `Impacto Financeiro:` Se conseguirmos classificar todas as transações usando o modelo, qual seria o faturamento esperado para a empresa? Isso nos ajuda a entender o potencial de ganhos com base na detecção eficiente de fraudes.
+
+* `Prejuízo Esperado:` Por outro lado, qual seria o prejuízo esperado se o modelo falhasse em identificar uma fraude? Estamos avaliando os riscos financeiros associados a falsos negativos.
+
+* `Lucro Esperado:` Com base nos resultados anteriores, podemos estimar o lucro que a Blocker Fraud Company pode alcançar ao implementar e utilizar o modelo de detecção de fraudes.
+
+Estamos comprometidos em fornecer soluções sólidas e confiáveis para a Blocker Fraud Company, garantindo a segurança financeira de nossos clientes e aprimorando nossa compreensão das complexidades das transações bancárias em um ambiente cada vez mais digital. Juntos, estamos construindo um futuro financeiro mais seguro e protegido.
+
+
+
+
+
+
 Projeto de Deteccao de Fraude
 
 Project Organization
