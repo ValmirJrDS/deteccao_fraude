@@ -1,4 +1,4 @@
-deteccao_fraude
+`DETECÇÃO DE FRAUDES EM TRANSAÇÕES BANCARIAS`
 ==============================
 
 `Apresentando o Projeto de Ciência de Dados da Blocker Fraud Company: Detecção Avançada de Fraudes Bancárias`
